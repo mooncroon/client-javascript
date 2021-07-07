@@ -1,5 +1,5 @@
 {
-  "name": "@reportportal/client-javascript",
+  "name": "@bin-reportportal/client-javascript",
   "version": "5.0.5",
   "description": "ReportPortal client for node.js",
   "author": "ReportPortal.io",
@@ -13,10 +13,10 @@
       "email": "lexecon117@gmail.com"
     }
   ],
-  "homepage": "https://github.com/reportportal/client-javascript",
+  "homepage": "https://github.com/mooncroon/client-javascript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reportportal/client-javascript.git"
+    "url": "git+ssh://git@github.com:mooncroon/client-javascript.git"
   },
   "directories": {
     "lib": "./lib"
